@@ -90,4 +90,6 @@ You can also configure maintenance notices in Datadog for scheduled downtimes.
 
 The final result:
 
+![Result Image](result.png)
+![History Image](history.png)
 
